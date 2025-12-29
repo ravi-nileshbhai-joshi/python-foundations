@@ -31,6 +31,6 @@ elif avg_energy >= 7 and avg_focus < 7:
 elif avg_energy >= 4 and avg_focus >= 4:
     recommendation = "Light work"
 else:
-    recommendation = "Rest & Reste"
+    recommendation = "Rest & Reset"
 
 print("System Recommendation:",recommendation)
